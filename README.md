@@ -1,4 +1,4 @@
-- ## Oi eu sou Janderson  👋
+- ## Hi I'm Janderson  👋
 
 
 <!---**janderson-code/janderson-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
