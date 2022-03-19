@@ -4,7 +4,7 @@
 <!---**janderson-code/janderson-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 - 🔭 Cursando Analise e Desenvolvimento na Fatec Ribeirão Preto
-- 🌱 Aprendendo Javascript,Flutter e Dart
+- 🌱 Aprendendo Javascript,Flutter e .NET
 - 😄 Pronouns: Ele
 
 
